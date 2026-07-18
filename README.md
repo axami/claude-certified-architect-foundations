@@ -1,6 +1,6 @@
 # Claude Certified Architect Foundations
 
-This repository is a starter project for the Claude Certified Architect Foundations workspace.
+This repository is a starter project for the Claude Certified Architect Foundations (CCAR-F).
 
 ## Getting Started
 
